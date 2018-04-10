@@ -1,0 +1,37 @@
+/*
+* Krista Dailey
+* April 10,2018
+* C09
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body { 
+    background-color: green;
+    color: black;
+    font-family: Arial, "Times New Roman" , Serif;
+}
+
+h1 {
+	text-decoration: underline overline;
+	text-align: center;
+	font-size: 30pt; 
+}
+h1,h2,h3,h5,h6 {
+	background-color: #0877C4;
+}
+
+img { 
+	float: left;
+		}
+p { 
+	background-color: white;
+	color: #05729b;
+}
